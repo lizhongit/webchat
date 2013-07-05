@@ -1,0 +1,18 @@
+
+webchat
+
+一个机遇WebSocket的聊天室，后端用Python编写。只要浏览器支持WebSocket即可。
+
+功能：
+查看在线人数
+清屏
+拖拽图片
+修改背景颜色
+修改前景颜色
+发送远程图片
+表情
+
+特点：
+是一个类似于linux操作界面的聊天室，完全通过键盘操作，而不需要鼠标。
+
+可以到这里看demo http://www.lizhong.me/webchat
